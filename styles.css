@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+     background-color: #2B4162;;
+}
+
+.launcher {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+.launchertwo {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    padding-left: 50px;
+}
+button{
+    background-color: #E3B23C;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+.container{
+    display: flex;
+     justify-content: center;
+
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+#rocket_fire{
+    display: flex;
+    justify-content: center;
+}
+#rocket_fire1{
+     position: absolute;
+     width: 100px;
+     height: 200px;
+    margin-top: 200px;
+    margin-left: -170px;
+    rotate: 180deg;
+    
+}
+#rocket_fire2{
+     position: absolute;
+     width: 100px;
+     height: 200px;
+    margin-top: 200px;
+    margin-left: -136px;
+    rotate: 180deg;}
